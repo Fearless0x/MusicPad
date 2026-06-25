@@ -7,3 +7,7 @@ Features:
 - Keyboard switches for play/pause, skip forward/back and shuffle
 - Rotary volume control with integrated mute switch
 - 0.91" OLED to display current song
+
+Files:
+PCB (inc. Schematic) - KiCAD
+CAD - OnShape
