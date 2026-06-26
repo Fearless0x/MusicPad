@@ -30,3 +30,5 @@ Files:
 PCB (inc. Schematic) - KiCAD
 CAD - OnShape
 Firmware - QMK
+
+NOTE: AI was used to assist QMK code creation
